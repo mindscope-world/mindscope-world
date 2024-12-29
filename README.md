@@ -21,7 +21,7 @@
 
 - 📝 I regularly write articles on [https://www.google.com](https://www.google.com)
 
-- 💬 Ask me about [Python, Django, LLMs and Computer Vision](Python, Django, LLMs and Computer Vision)
+- 💬 Ask me about [Python, Django, LLMs and Computer Vision](Python.com)
 
 - 📫 How to reach me **ndirangup254@gmail.com**
 
