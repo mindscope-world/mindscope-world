@@ -2,9 +2,6 @@
 
 # Welcome to mindscope-world's GitHub Profile! 👋
 
-<h1 align="center">Hi 👋, I'm Paul Ndirangu</h1>
-<h3 align="center">An experienced backend developer who is passionate about using data and cutting-edge technology to drive innovation. I specialize in Django and create scalable web apps while bringing expertise in machine learning, computer vision, and NLP to the table. With a passion for DevOps and a desire to learn, I'm dedicated to providing impactful solutions that inspire and transform.</h3>
-
 - 🔭 I’m currently working on [AI powered knowledgebase system](https://www.google.com)
 
 - 🌱 I’m currently learning [Kotlin](Kotlin.com)
