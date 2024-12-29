@@ -5,10 +5,6 @@
 <h1 align="center">Hi 👋, I'm Paul Ndirangu</h1>
 <h3 align="center">An experienced backend developer who is passionate about using data and cutting-edge technology to drive innovation. I specialize in Django and create scalable web apps while bringing expertise in machine learning, computer vision, and NLP to the table. With a passion for DevOps and a desire to learn, I'm dedicated to providing impactful solutions that inspire and transform.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mindscope-world&label=Profile%20views&color=0e75b6&style=flat" alt="mindscope-world" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mindscope-world" alt="mindscope-world" /></a> </p>
-
 - 🔭 I’m currently working on [AI powered knowledgebase system](https://www.google.com)
 
 - 🌱 I’m currently learning [Kotlin](Kotlin.com)
@@ -28,6 +24,10 @@
 - 📄 Know about my experiences [https://www.google.com](https://www.google.com)
 
 - ⚡ Fun fact **I am a jack of all trades**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mindscope-world&label=Profile%20views&color=0e75b6&style=flat" alt="mindscope-world" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mindscope-world" alt="mindscope-world" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
