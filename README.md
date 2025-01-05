@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [AI powered knowledgebase system](https://www.google.com)
 
-- 🌱 I’m currently learning [Kotlin](Kotlin.com)
+- 🌱 I’m currently learning [Android Development with Kotlin](Kotlin.com)
 
 - 👯 I’m looking to collaborate on [Large Language Projects](https://www.google.com)
 
