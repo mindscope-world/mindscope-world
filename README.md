@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Welcome to mindscope-world's GitHub Profile! 👋
+# Welcome to Paul Ndirangu's GitHub Profile! 👋
 
 - 🔭 I’m currently working on [AI powered knowledgebase system](https://www.google.com)
 
