@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi there 👋
 
 # Welcome to Paul Ndirangu's GitHub Profile! 👋
 
