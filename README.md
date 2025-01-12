@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.google.com](https://www.google.com)
 
-- 📝 I regularly write articles on [https://www.google.com](https://www.google.com)
+- 📝 I regularly write articles on [https://urbanmonk.hashnode.dev/](https://urbanmonk.hashnode.dev/).
 
 - 💬 Ask me about [Python, Django, LLMs and Computer Vision](Python.com)
 
