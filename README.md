@@ -2,11 +2,11 @@
 
 # Welcome to Paul Ndirangu's GitHub Profile! 👋
 
-- 🔭 I’m currently working on [AI powered knowledgebase system](https://www.google.com)
+- 🔭 I’m currently working on [AI powered knowledgebase agent](https://www.google.com)
 
 - 🌱 I’m currently learning [Android Development with Kotlin](Kotlin.com)
-
-- 👯 I’m looking to collaborate on [Large Language Projects](https://www.google.com)
+ 
+- 👯 I’m looking to collaborate on [Large Language Model Projects](https://www.google.com)
 
 - 🤝 I’m looking for help with [Distributed systems](https://www.google.com)
 
@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://www.google.com](https://www.google.com)
 
-- ⚡ Fun fact **I am a jack of all trades**
+- ⚡ Fun fact **I still figuring stuff out**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mindscope-world&label=Profile%20views&color=0e75b6&style=flat" alt="mindscope-world" /> </p>
 
