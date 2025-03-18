@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with [Distributed systems](https://www.google.com)
 
-- 👨‍💻 All of my projects are available at [https://www.google.com](https://www.google.com)
+- 👨‍💻 All of my projects are available at [Portfolio](https://www.google.com)
 
 - 📝 I regularly write articles on [https://urbanmonk.hashnode.dev/](https://urbanmonk.hashnode.dev/).
 
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **ndirangup254@gmail.com**
 
-- 📄 Know about my experiences [https://www.google.com](https://www.google.com)
+- 📄 Know about my experiences [Experiences](https://www.google.com)
 
 - ⚡ Fun fact **I still figuring stuff out**
 
