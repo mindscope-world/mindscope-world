@@ -3,20 +3,14 @@
 # Welcome to Paul Ndirangu's GitHub Profile! 👋
 
 - 🔭 I’m currently working on [AI powered knowledgebase agent](https://www.google.com)
-
-- 🌱 I’m currently learning [Android Development with Kotlin](Kotlin.com)
  
 - 👯 I’m looking to collaborate on [Large Language Model Projects](https://www.google.com)
-
-- 🤝 I’m looking for help with [Distributed systems](https://www.google.com)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://www.google.com)
 
 - 📝 I regularly write articles on [https://urbanmonk.hashnode.dev/](https://urbanmonk.hashnode.dev/).
 
 - 💬 Ask me about [Python, Django, LLMs and Computer Vision](Python.com)
-
-- 📫 How to reach me **ndirangup254@gmail.com**
 
 - 📄 Know about my experiences [Experiences](https://www.google.com)
 
