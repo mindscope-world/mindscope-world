@@ -2,9 +2,6 @@
 
 # Welcome to Paul Ndirangu's GitHub Profile! 👋
 
-**Visitor count:**
-<img src="https://profile-counter.glitch.me/mindscope-world/count.svg" />
-
 - 🔭 I’m currently working on [AI powered knowledgebase agent](https://www.google.com)
  
 - 👯 I’m looking to collaborate on [Large Language Model Projects](https://www.google.com)
