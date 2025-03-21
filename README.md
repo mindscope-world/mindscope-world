@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://dev.to/mindscope-world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mindscope-world" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/paul-ndirangu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paul-ndirangu" height="30" width="40" /></a>
-<a href="https://hashnode.com/mindscope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="midscope" height="30" width="40" /></a>
+<a href="https://urbanmonk.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="midscope" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mindscope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mindscope" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mindscope" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mindscope" height="30" width="40" /></a>
 </p>
