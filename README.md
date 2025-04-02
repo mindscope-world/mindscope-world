@@ -1,6 +1,6 @@
 ## 👋 Hi there 👋
 
-# Welcome to Paul Ndirangu's GitHub Profile! 👋
+# Welcome to Michelle Heta's GitHub Profile! 👋
 
 - 🔭 I’m currently working on [AI powered knowledgebase agent](https://www.google.com)
  
