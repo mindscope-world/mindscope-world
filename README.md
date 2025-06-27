@@ -6,7 +6,7 @@
  
 - 👯 I’m looking to collaborate on [Large Language Model Projects](https://www.google.com)
 
-- 👨‍💻 All of my projects are available at [Portfolio]([https://www.google.com](https://kzmkmav3np3g4x8gzbcz.lite.vusercontent.net/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://kzmkmav3np3g4x8gzbcz.lite.vusercontent.net)
 
 - 📝 I regularly write articles on [https://urbanmonk.hashnode.dev/](https://urbanmonk.hashnode.dev/).
 
